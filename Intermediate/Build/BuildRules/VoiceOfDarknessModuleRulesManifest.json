@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kapgan\\Documents\\Unreal Projects\\VoiceOfDarkness-master\\Source\\VoiceOfDarkness\\VoiceOfDarkness.Build.cs",
+		"C:\\Users\\Kapgan\\Documents\\Unreal Projects\\VoiceOfDarkness-master\\Source\\VoiceOfDarkness.Target.cs",
+		"C:\\Users\\Kapgan\\Documents\\Unreal Projects\\VoiceOfDarkness-master\\Source\\VoiceOfDarknessEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
